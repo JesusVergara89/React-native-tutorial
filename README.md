@@ -29,12 +29,12 @@
 }
 
 
-[Full step/step](https://citrine-croissant-fff.notion.siteReact-Native-5a3ee164ecef462eb74604b470657749?pvs=25)
+# This is what we will build 
 
+## Step by step
 
-![This is what we will build](https://citrine-croissant-fff.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0364aa95-2505-4304-9afc-a2c002e7dd05%2F4d7283ea-89b1-4426-9c27-809ba68b60bd%2FScreenshot_2024-08-24_at_6.53.13_PM.png?table=block&id=aa6eaf17-bd86-4e92-9608-fc3f5bc498fe&spaceId=0364aa95-2505-4304-9afc-a2c002e7dd05&width=2000&userId=&cache=v2)
+![](./assets/images/View1.png)
 
-![This is what we will build](https://citrine-croissant-fff.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0364aa95-2505-4304-9afc-a2c002e7dd05%2F6b6f6747-d15a-4897-88c0-d1a697d69c4b%2FScreenshot_2024-08-24_at_6.53.27_PM.png?table=block&id=633f4f74-7747-4753-9161-cdd8c0eee705&spaceId=0364aa95-2505-4304-9afc-a2c002e7dd05&width=2000&userId=&cache=v2)
+![](./assets/images/View2.png) 
 
-
-![](https://bit.ly/3X2q8g8) 
+![](./assets/images/View3.png) 
