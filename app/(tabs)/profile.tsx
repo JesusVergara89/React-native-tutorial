@@ -1,4 +1,4 @@
-import Header from '@/components/Header';
+import HeaderProfile from '@/components/HeaderProfile';
 import Colors from '@/constants/Colors';
 import { Stack } from 'expo-router';
 import React, { useState } from 'react';
@@ -8,11 +8,11 @@ const Page = () => {
 
     return (
         <>
-            <Stack.Screen options={{
-                header: () => <Header />
-            }} />
+            <Stack.Screen options={{ 
+                header: () => <HeaderProfile/>
+             }} />
             <View style={styles.container} >
-                <Text style={styles.text}>Index</Text>
+                <Text style={styles.text}>Profile</Text>
             </View>
         </>
     );
@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
-        backgroundColor: Colors.backgorund
+        backgroundColor: Colors.clear
     },
     text: {
         color: Colors.white
