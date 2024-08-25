@@ -27,6 +27,7 @@
   "react-native-svg": "^15.6.0",
   "react-native-web": "~0.19.10"
 }
+```
 
 
 # This is what we will build 
