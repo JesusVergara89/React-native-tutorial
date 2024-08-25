@@ -32,7 +32,9 @@
 
 # This is what we will build 
 
-## Step by step
+## Step by step:
+
+[Visita el sitio de React Native](https://citrine-croissant-fff.notion.site/React-Native-5a3ee164ecef462eb74604b470657749h)
 
 ![](./assets/images/View1.png)
 
