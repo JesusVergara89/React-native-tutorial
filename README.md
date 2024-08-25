@@ -36,6 +36,6 @@
 
 ![This is what we will build](https://citrine-croissant-fff.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0364aa95-2505-4304-9afc-a2c002e7dd05%2F6b6f6747-d15a-4897-88c0-d1a697d69c4b%2FScreenshot_2024-08-24_at_6.53.27_PM.png?table=block&id=633f4f74-7747-4753-9161-cdd8c0eee705&spaceId=0364aa95-2505-4304-9afc-a2c002e7dd05&width=2000&userId=&cache=v2)
 
-![This is what we will build](https://citrine-croissant-fff.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0364aa95-2505-4304-9afc-a2c002e7dd05%2F402fc264-2231-4a39-a8b7-27522aaa5170%2FScreenshot_2024-08-24_at_6.53.42_PM.png?table=block&id=0c748e86-fe83-436a-a1a9-6560ba732aff&spaceId=0364aa95-2505-4304-9afc-a2c002e7dd05&width=2000&userId=&cache=v2)
+![This is what we will build](https://bit.ly/3X2q8g8)
 
 
