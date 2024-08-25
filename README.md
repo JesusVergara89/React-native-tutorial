@@ -36,8 +36,8 @@
 
 [Visita el sitio de React Native](https://citrine-croissant-fff.notion.site/React-Native-5a3ee164ecef462eb74604b470657749h)
 
-![](./assets/images/View1.png)
+![](./assets/images/View1.png) 
 
-![](./assets/images/View2.png) 
+![](./assets/images/View2.png)
 
 ![](./assets/images/View3.png) 
